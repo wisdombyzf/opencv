@@ -115,6 +115,7 @@
   <ItemGroup>
     <ClInclude Include="GUI设置.h" />
     <ClInclude Include="resource.h" />
+    <ClInclude Include="人脸检测.h" />
     <ClInclude Include="图像模糊.h" />
     <ClInclude Include="基本操作.h" />
     <ClInclude Include="简单图形绘制.h" />
