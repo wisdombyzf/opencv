@@ -38,6 +38,12 @@
     <ClInclude Include="resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="GUI设置.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="简单图形绘制.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="opencv.rc">

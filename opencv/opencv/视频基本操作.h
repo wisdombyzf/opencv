@@ -24,7 +24,8 @@ int cv_5()
 		{
 			break;
 		}
-		//cap >> frame;		
+		//cap >> frame;
+
 		imshow(" ”∆µ≤‚ ‘", frame);
 		waitKey(delay);
 	}

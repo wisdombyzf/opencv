@@ -113,9 +113,11 @@
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GUI设置.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="图像模糊.h" />
     <ClInclude Include="基本操作.h" />
+    <ClInclude Include="简单图形绘制.h" />
     <ClInclude Include="腐蚀与膨胀.h" />
     <ClInclude Include="视频基本操作.h" />
     <ClInclude Include="边缘检测.h" />
